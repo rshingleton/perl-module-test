@@ -22,18 +22,18 @@ perl::module::test - It's new $module
 
 =head1 DESCRIPTION
 
-perl::module::test is ...
+perl::module::test is a test project used for testing publishing to darkpan
 
 =head1 LICENSE
 
-Copyright (C) shingler.
+Copyright (C) rshingleton.
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
 =head1 AUTHOR
 
-shingler E<lt>shingler@oclc.orgE<gt>
+rshingleton E<lt>reshingleton@gmail.comE<gt>
 
 =cut
 

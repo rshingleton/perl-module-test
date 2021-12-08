@@ -1,7 +1,7 @@
 {
    "abstract" : "It's new $module",
    "author" : [
-      "shingler <shingler@oclc.org>"
+      "rshingleton <reshingleton@gmail.com>"
    ],
    "dynamic_config" : 0,
    "generated_by" : "Minilla/v3.1.12, CPAN::Meta::Converter version 2.150010",
@@ -52,7 +52,21 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/rshingleton/perl-module-test/issues"
+      },
+      "homepage" : "https://github.com/rshingleton/perl-module-test",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/rshingleton/perl-module-test.git",
+         "web" : "https://github.com/rshingleton/perl-module-test"
+      }
+   },
    "version" : "0.01",
+   "x_contributors" : [
+      "shingler <shingler@oclc.org>"
+   ],
    "x_serialization_backend" : "JSON::PP version 2.27400_02",
    "x_static_install" : 1
 }

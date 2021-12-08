@@ -3,3 +3,5 @@ name = "perl-module-test"
 module_maker="ModuleBuildTiny"
 static_install = "auto"
 
+[release]
+pause_config=".pause"
