@@ -1,3 +1,4 @@
-upload_uri http://darkpan.k8s.shr.oclc.org/publish
+#upload_uri http://darkpan.k8s.shr.oclc.org/publish
+upload_uri http://localhost:3000/publish
 user DUMMY
 password xxx
